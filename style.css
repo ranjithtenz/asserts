@@ -1,0 +1,13 @@
+html { font-family: Helvetica Neue, Helvetica, Helvetica, Arial, sans-serif; font-size: 100%%; line-height: 1.6; margin: 0; padding: 0; }
+h1 { font-size: 36px; line-height: 1.2; color: #000; font-weight: 200; margin: 40px 0 10px; padding: 0; }
+p { font-size: 14px; line-height: 1.6; font-weight: normal; margin: 0 0 10px; padding: 0; }
+table { font-size: 100%; line-height: 1.6; width: 100%; margin: 0; padding: 0; }
+tr { font-size: 100%; line-height: 1.6; margin: 0; padding: 0; }
+td { font-size: 100%; line-height: 1.6; margin: 0; padding: 10px 0; }
+	td.emp { font-size: 100%; line-height: 1.6; margin: 0; padding: 0; }
+a { font-size: 100%; line-height: 2; color: #FFF; text-decoration: none; font-weight: bold; text-align: center; cursor: pointer; display: inline-block; border-radius: 5px; background: #348eda; margin: 0 10px 0 0; padding: 0; border-color: #348eda; border-style: solid; border-width: 10px 20px; }
+.footer { font-size: 100%; line-height: 1.6; margin: 0; padding: 0; }
+body {background: #f6f6f6;}
+table.body-wrap { font-size: 100%; line-height: 1.6; width: 100%; margin: 0; padding: 20px; background: #f6f6f6; }
+td.container { font-size: 100%; line-height: 1.6; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto; padding: 20px; border: 1px solid #f0f0f0; background: #FFFFFF; }
+div.content { font-size: 100%; line-height: 1.6; max-width: 600px; display: block; margin: 0 auto; padding: 0; }
